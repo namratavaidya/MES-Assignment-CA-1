@@ -1,0 +1,4 @@
+MOV 70H, #20H
+MOV 80H, #88H
+
+MOV A, 40H

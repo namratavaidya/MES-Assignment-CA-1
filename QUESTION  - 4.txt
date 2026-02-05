@@ -1,0 +1,10 @@
+CLR A             
+ORL A, #50H       
+ORL A, #09H        
+ANL A, #1FH        
+MOV 45H, A        
+
+CLR A
+ORL A, #50H
+ORL A, #0FH
+MOV 65H, A
